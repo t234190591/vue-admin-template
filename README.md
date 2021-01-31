@@ -1,2 +1,2 @@
 # vue-admin-template
-admin template vy vue-cli.
+admin template by vue-cli.
