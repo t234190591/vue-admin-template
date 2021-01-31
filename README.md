@@ -11,7 +11,7 @@ yarn install
 ### Compiles and hot-reloads for development
 
 ```javascript
-yarn serve
+yarn start
 ```
 
 ### Compiles and minifies for production
